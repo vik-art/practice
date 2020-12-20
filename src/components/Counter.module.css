@@ -1,0 +1,20 @@
+.value {
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+}
+.counterControlls {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.button {
+  width: 400px;
+  height: 100px;
+  font-size: 36px;
+  font-weight: 700;
+  background-color: aquamarine;
+  border-radius: 20px;
+
+  cursor: pointer;
+}
